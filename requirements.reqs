@@ -1,3 +1,4 @@
 # Generated on: Python 3.8
 pylint==2.17.4
 pycodestyle==2.10.0
+numpy==1.24.3
