@@ -6,3 +6,6 @@ unsolved-maze-*.txt
 solved-maze-*.txt
 app/unsolved-maze-*.txt
 app/solved-maze-*.txt
+
+!app/fixtures/unsolved-maze-*.txt
+!app/fixtures/solved-maze-*.txt
