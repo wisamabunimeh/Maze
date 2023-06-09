@@ -88,7 +88,7 @@ This project also has an ad hoc Github Action to run the project to generate maz
 1. Ensure `python3` and `pip` are installed.
 2.  Clone the repository:
 	```
-	$ git clone https://github.com/wisamabunimeh/todo
+	$ git clone https://github.com/wisamabunimeh/Maze
 	```
 3. Install the project's dependencies:
 	```
