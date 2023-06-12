@@ -105,11 +105,11 @@ $ python3 app/main.py [OPTIONS]
 |-----------------------------------|---------------------------------------------|
 | `--width=NUMBER`                  | How many blocks wide. Defaults to 50.       |
 | `--height=NUMBER`                 | How many blocks wide. Defaults to 50.       |
-| `--print-unsolved`  	            |  Prints the unsolved maze the the console   |
-| `--print-solved`    	            |  Prints the solved maze the the console     |
-| `--export-unsolved`               |  Exports the unsolved maze to a text file   |
-| `--export-solved`                 | Exports the solved maze to a text file      |
-| `--seed=NUMBER`                   |  This number initializes the the random number generator.<br>Inputting a seed number will generate a nonrandom maze. <br>If you generated a maze without the solution,<br>you can generate the solution by inputting the `id` from the `unsolved-maze-{id}.txt` file. <br>Defaults to a random number |
+| `--print-unsolved`  	            | Prints the unsolved maze to the console.   |
+| `--print-solved`    	            | Prints the solved maze to the console.     |
+| `--export-unsolved`               | Exports the unsolved maze to a text file.   |
+| `--export-solved`                 | Exports the solved maze to a text file.      |
+| `--seed=NUMBER`                   | This number initializes the random number generator.<br>Inputting a seed number will generate a nonrandom maze. <br>If you generated a maze without the solution,<br>you can generate the solution by inputting the `id` from the `unsolved-maze-{id}.txt` file. <br>Defaults to a random number. |
 
 ## Running unit tests
 ```
